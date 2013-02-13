@@ -1,0 +1,10 @@
+*.pyc
+build/
+datastore.egg-info
+dist
+.tm_properties
+pypi/
+.tox
+.datastore
+dump.rds
+venv/
